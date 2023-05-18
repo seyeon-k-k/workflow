@@ -1,0 +1,29 @@
+# Personal Homepage
+
+## Introduction:
+name: KIM SEYEON
+summary: 25YO INTERNSHIP IN LG CNS.
+education: SKKU SYSTEMS MANAGEMENT ENGINEERING.
+
+## Skills:
+skills:
+  - DATA ENGINEERING
+  - PROGRAMMING
+
+## Education:
+educationDetails:
+  - degree: BACHELOR'S DEGREE
+    school: SKKU
+    major: SYSTEMS MANAGEMENT ENGINEERING
+
+
+## Achievements and Certifications:
+achievements:
+  - TOEFL 96
+  - OPIC IH
+  - ETEST PROFESSIONAL 1
+
+## Contact:
+email: seyeon1121@naver.com
+github: seyeon-k-k
+
